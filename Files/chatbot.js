@@ -14,7 +14,7 @@ function sendMessage() {
       // Process user input (You can use backend services for actual processing)
       // For this example, we'll just display a sample bot response
       setTimeout(() => {
-          const botResponse = 'Thank you for your message. Your will not directed to the API chatbox.';
+          const botResponse = 'Thank you for your message. Your will  directed to the API chatbox.';
           appendMessage('bot', botResponse);
       }, 1000);
 
